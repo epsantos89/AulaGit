@@ -3,7 +3,7 @@ package br.univel;
 public class Principal {
 	
 	public static void main(){
-		String msg = "Ola mundo!";
+		String msg = "Hello World!";
 		System.out.println(msg);
 	}
 
